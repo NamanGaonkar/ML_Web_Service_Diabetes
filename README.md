@@ -30,7 +30,6 @@ pip install -r requirements.txt
 
 ## 🛡️ Dataset
 - Pima Indians Diabetes Dataset (from Kaggle/UCI)
-
   
 3. Initialize Git and Connect to GitHub
 Open your terminal in this project folder and run:
@@ -38,3 +37,12 @@ Open your terminal in this project folder and run:
 git init
 git add .
 git commit -m "Initial commit: Diabetes ML web deployment"
+
+
+## Example: Model Training Output
+
+![Model training terminal output](Screenshots/1.png)
+
+## Example: API Prediction Test
+
+![API test screenshot](Screenshots/2.png)
