@@ -30,7 +30,8 @@ pip install -r requirements.txt
 
 ## 🛡️ Dataset
 - Pima Indians Diabetes Dataset (from Kaggle/UCI)
-- 
+
+  
 3. Initialize Git and Connect to GitHub
 Open your terminal in this project folder and run:
 
