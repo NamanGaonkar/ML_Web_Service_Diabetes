@@ -18,6 +18,7 @@ This project demonstrates how to build, train, and deploy a machine learning mod
 
 ##  Usage
 python train_model.py
+
 2. Launch the API:
 python app.py
 
