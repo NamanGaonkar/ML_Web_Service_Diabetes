@@ -1,14 +1,14 @@
 # ML_Web_Service_Diabetes
 This project demonstrates how to build, train, and deploy a machine learning model for diabetes prediction via a Flask REST API
 
-## 🚀 Features
+##  Features
 
 - Random Forest Classifier for diabetes prediction
 - Preprocessing with StandardScaler
 - Flask REST API with `/predict` endpoint
 - Test script and screenshots included
 
-## 📁 Structure
+## Structure
 
 - `train_model.py`: Trains and saves the model
 - `app.py`: Serves the Flask API
@@ -16,7 +16,7 @@ This project demonstrates how to build, train, and deploy a machine learning mod
 - `data/diabetes.csv`: Dataset
 - `Screenshots/`: Sample outputs for your report
 
-## ⚡ Usage
+##  Usage
 python train_model.py
 2. Launch the API:
 python app.py
@@ -25,10 +25,10 @@ python app.py
 python test_api.py
 
 
-## 📦 Requirements
+##  Requirements
 pip install -r requirements.txt
 
-## 🛡️ Dataset
+##  Dataset
 - Pima Indians Diabetes Dataset (from Kaggle/UCI)
   
 3. Initialize Git and Connect to GitHub
@@ -39,10 +39,10 @@ git add .
 git commit -m "Initial commit: Diabetes ML web deployment"
 
 
-## Example: Model Training Output
+## Example: 
 
 ![Model training terminal output](Screenshots/1.png)
 
-## Example: API Prediction Test
+## Example:
 
 ![API test screenshot](Screenshots/2.png)
